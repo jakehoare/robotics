@@ -1,2 +1,3 @@
 # robotics
-Multi agent task allocation by auction
+Multi agent task allocation by auction.  
+C++ code and report.
